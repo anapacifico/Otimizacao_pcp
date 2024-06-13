@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Produto1",
+    "materias_primas": [
+      [{"nome": "MP1", "custo": 5.0, "tempo_entrega": 1}, 10],
+      [{"nome": "MP2", "custo": 10.0, "tempo_entrega": 2}, 5]
+    ],
+    "tempo_fabricacao": 3,
+    "capacidade_producao": 100
+  },
+  {
+    "nome": "Produto2",
+    "materias_primas": [
+      [{"nome": "MP3", "custo": 15.0, "tempo_entrega": 3}, 8],
+      [{"nome": "MP4", "custo": 20.0, "tempo_entrega": 4}, 12]
+    ],
+    "tempo_fabricacao": 4,
+    "capacidade_producao": 200
+  },
+  {
+    "nome": "Produto3",
+    "materias_primas": [
+      [{"nome": "MP5", "custo": 25.0, "tempo_entrega": 5}, 7],
+      [{"nome": "MP6", "custo": 30.0, "tempo_entrega": 6}, 14]
+    ],
+    "tempo_fabricacao": 5,
+    "capacidade_producao": 150
+  },
+  {
+    "nome": "Produto4",
+    "materias_primas": [
+      [{"nome": "MP7", "custo": 35.0, "tempo_entrega": 7}, 6],
+      [{"nome": "MP8", "custo": 40.0, "tempo_entrega": 8}, 9]
+    ],
+    "tempo_fabricacao": 6,
+    "capacidade_producao": 180
+  },
+  {
+    "nome": "Produto5",
+    "materias_primas": [
+      [{"nome": "MP9", "custo": 45.0, "tempo_entrega": 9}, 15],
+      [{"nome": "MP10", "custo": 50.0, "tempo_entrega": 10}, 11]
+    ],
+    "tempo_fabricacao": 7,
+    "capacidade_producao": 220
+  }
+]
