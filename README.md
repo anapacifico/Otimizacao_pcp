@@ -1,5 +1,4 @@
 # Otimização de Planejamento e Controle de Produção (PCP)
-[
 ## Apresentação do Problema
 Este projeto realiza a otimização do processo de Planejamento e Controle de Produção (PCP). O objetivo é desenvolver um algoritmo que considere diversas entradas, saídas, premissas e restrições para otimizar o processo de produção.
 
